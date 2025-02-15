@@ -1,6 +1,6 @@
 # Store Sales Unsupervised Learning
 
-An unsupervised learning analysis of store sales data from Corporación Favorita in Ecuador, using clustering and dimensionality reduction techniques to uncover store performance patterns.
+Using unsupervised learning to find patterns in store sales data from Corporación Favorita (Ecuador).
 
 ## The Data
 
@@ -10,13 +10,12 @@ https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 
 ## Requirements
 
-- Python 3.8+
-- Libraries:
-  - pandas
-  - numpy
-  - scikit-learn
-  - matplotlib
-  - seaborn
+Required libraries:
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
 
 ## Quick Start
 
@@ -27,5 +26,5 @@ https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data
 
 ## Key Insights
 
-- Identified 4 distinct store performance groups
-- 96.7% of store variation explained by two main components
+- Found 4 different store groups
+- Two patterns explain 96.7% of store differences
